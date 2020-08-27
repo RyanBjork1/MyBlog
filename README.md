@@ -1,1 +1,1 @@
-# This is the repo for My blog sitre. 
+# This is the repo for My blog site. 

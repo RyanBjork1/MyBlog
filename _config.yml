@@ -27,7 +27,7 @@ url: "https://ryanbjork1.github.io" # the base hostname & protocol for your site
 twitter_username: ryanbjork1
 github_username: RyanBjork1
 # Build settings
-theme: minima
+theme: jekyll-theme-tactile
 plugins:
   - jekyll-feed
 

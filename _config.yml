@@ -27,7 +27,7 @@ urls: "https://ryanbjork1.github.io" # the base hostname & protocol for your sit
 twitter_username: ryanbjork1
 github_username: RyanBjork1
 # Build settings
-theme: Minima
+theme: minima
 plugins:
   - jekyll-feed
 

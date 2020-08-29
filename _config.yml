@@ -22,12 +22,12 @@ title: Ryan's Updates
 email: ryanbjork1@hotmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   I'll be writing about all the things I do regarding, Github.
-baseurl: "/MyBlog" # the subpath of your site, e.g. /blog
-url: "https://ryanbjork1.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurls: "/MyBlog" # the subpath of your site, e.g. /blog
+urls: "https://ryanbjork1.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ryanbjork1
 github_username: RyanBjork1
 # Build settings
-theme: minima
+theme: Minima
 plugins:
   - jekyll-feed
 
